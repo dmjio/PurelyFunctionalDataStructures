@@ -2,7 +2,7 @@ Purely Functional Data Structures
 =================================
 
 - Queues
-   - Batchedon
+   - Batched
    - Bankers
    - Physicist's
    - Hood Melville
