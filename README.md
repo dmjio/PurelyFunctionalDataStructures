@@ -1,25 +1,25 @@
 Purely Functional Data Structures
 =================================
 
-# Queues
+- Queues
    - Batchedon
    - Bankers
    - Physicist's
    - Hood Melville
    - Bootstrapped
    - Implicit
-# Deques
+- Deques
    - Banker's
-# Catenable Lists
+- Catenable Lists
    - Bootstrapped
-# Catenable Deques
+- Catenable Deques
    - Simple
    - Implicit
-# Random-Access Lists
+- Random-Access Lists
    - Binary
    - Skew Binary
    - Binary (alternative)
-# Heaps
+- Heaps
    - Leftist
    - Binomial
    - Splay
@@ -27,11 +27,11 @@ Purely Functional Data Structures
    - Lazy Pairing
    - Skew Binomial 
    - Bootstrapped
-# Sortable Collections
+- Sortable Collections
    - Bottom-up mergesort
-# Sets
+- Sets
    - Unbalanced
    - Red-Black
-# Finite Maps
+- Finite Maps
    - Trie
    - Trie of Trees
